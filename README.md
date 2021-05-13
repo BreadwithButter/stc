@@ -1,7 +1,6 @@
-# Microsoft Learn a GitHub
+# NodeJS ŠTC Project
 
-Marek Štofánik
-
-Introduction to object-oriented programming with Python
-
-https://docs.microsoft.com/sk-sk/users/tofnikmarek-5938/achievements
+Commands in order:
+- npm install #Install project
+- tsc #Compile to JavaScript
+- npm run start #Start the project
